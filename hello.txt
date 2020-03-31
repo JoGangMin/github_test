@@ -2,4 +2,5 @@ hello
 my name is
 jo gang min
 test branch!
-기능 1 추가
+기능 1 추가햣 
+기능추가 2
